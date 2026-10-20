@@ -1,0 +1,10 @@
+CONFIG mode=0 SYSCLK=72000000 PSC=7199 ARR=9999 CRL=0x44444443 CCMR1=0x0 CCER=0x0
+SAMPLE t=0.010022 ms=0 irq=0 LED=1 CCR=0 phase=0 cycles=0 PA0=1
+SAMPLE t=0.510022 ms=0 irq=0 LED=1 CCR=0 phase=0 cycles=0 PA0=1
+SAMPLE t=1.010022 ms=1000 irq=1 LED=0 CCR=0 phase=0 cycles=0 PA0=0
+SAMPLE t=1.510022 ms=1000 irq=1 LED=0 CCR=0 phase=0 cycles=0 PA0=0
+SAMPLE t=2.010022 ms=2000 irq=2 LED=1 CCR=0 phase=0 cycles=0 PA0=1
+SAMPLE t=2.510022 ms=2000 irq=2 LED=1 CCR=0 phase=0 cycles=0 PA0=1
+SAMPLE t=3.010022 ms=3000 irq=3 LED=0 CCR=0 phase=0 cycles=0 PA0=0
+SAMPLE t=3.510022 ms=3000 irq=3 LED=0 CCR=0 phase=0 cycles=0 PA0=0
+SAMPLE t=4.010022 ms=4000 irq=4 LED=1 CCR=0 phase=0 cycles=0 PA0=1
